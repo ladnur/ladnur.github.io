@@ -6,7 +6,7 @@
   <h1>✅ </h1>
   <ul>
     <li>
-      <a href="https://ladnur.github.io/color-combination-tool/colorgenerator.html">Color Combination Tool</a>
+      <a href="https://ladnur.github.io/color-combination-tool/">Color Combination Tool</a>
     </li>
     <!-- Add more projects here -->
   </ul>
